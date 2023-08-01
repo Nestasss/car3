@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jeep Compass 2022 Lowpoly
+* source:	https://sketchfab.com/3d-models/jeep-compass-2022-lowpoly-e4087350c4d84d8391de09b405c96488
+* author:	Davidson (https://sketchfab.com/a0930582398)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jeep Compass 2022 Lowpoly" (https://sketchfab.com/3d-models/jeep-compass-2022-lowpoly-e4087350c4d84d8391de09b405c96488) by Davidson (https://sketchfab.com/a0930582398) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
